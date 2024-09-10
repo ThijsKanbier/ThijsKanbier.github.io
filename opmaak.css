@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-ul  {
+
+<ul  {
   list-style-position:  none;
   margin: 0;
   padding: 0;
@@ -24,10 +21,3 @@ li a {
 li a:hover {
   background-color: aliceblue;
 }
-<style>
-</head>
-<body> {background}
-<p>Dit is de titel</p>
-<p>Dit is de paragraaf</p>
-</body>
-</html>
