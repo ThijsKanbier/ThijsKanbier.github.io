@@ -31,3 +31,21 @@ li a:hover:not(.active) {
   background-color: antiquewhite;
 ;
 }
+
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 45%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+}
