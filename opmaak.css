@@ -45,7 +45,7 @@ li a:hover:not(.active) {
 }
 
 img { 
-  width: 100%;
+  width: 40%;
   height: auto;
   opacity: 0.3;
 }
