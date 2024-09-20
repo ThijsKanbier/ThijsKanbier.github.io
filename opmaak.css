@@ -48,6 +48,8 @@ img {
   width: 40%;
   height: auto;
   opacity: 0.8;
+  margin: 50% left;
+  opacity: 0.8;
   align-items: center;
 }
 h1 {
