@@ -67,8 +67,8 @@ p {
 }
 
 .footer {
+  padding: 0%;
+  background-color: peru;
 text-align: center;
 color: whitesmoke
-padding: 0%;
-background-color:peru
 }
