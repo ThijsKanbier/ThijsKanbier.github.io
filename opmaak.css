@@ -46,20 +46,12 @@ li a:hover:not(.active) {
 
 body {
   text-align: center;
-  margin-bottom: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin: 0%;
 }
 h1 {
   border-style: solid;
   border-color: peru;
-}
-
-img {
-  margin: 5%;
-  align-items: center;
-  position: relative;
-  float: left 70%;
+  margin: 2%;
 }
 
 iframe {
