@@ -63,8 +63,8 @@ p {
 }
 
 footer {
-  text-align: center;
-  padding: 3px;
-  background-color: peru;
-  color: black;
+text-align: center;
+background-color: peru;
+color: black;
+padding: 2px;
 }
