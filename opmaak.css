@@ -45,8 +45,12 @@ li a:hover:not(.active) {
 
 body {
   text-align: center;
+}
+
+body {
   margin: 0%;
 }
+
 h1 {
   border-style: solid;
   border-color: peru;
