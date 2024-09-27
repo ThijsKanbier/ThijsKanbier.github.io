@@ -4,15 +4,15 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: antiquewhite;
-}
+}  /*De kleur en hoe mijn menu eruit ziewordt hierdoor bepaald'*/
 
 li {  
   float: left;
-}
+}/*Waar mijn menu komt te staan*/
 
 body {
   background-color: cornsilk;
-}
+}/*achtergrondkleur website*/
 
 li a {
   display: block;
@@ -20,20 +20,19 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
+}/*hoe de links er moeten uitzien*/
 
 li a:hover:not(.active) {
   background-color: burlywood;
-}
+}/*kleur van menu als je met je muis erop staat*/
 
 .active {
   background-color: antiquewhite;
-;
-}
+}/*achtergrondkleur*/
 
 .container {
   position: relative;
-}
+}/*waar element komt te staan*/
 
 .center {
   position: absolute;
@@ -41,30 +40,30 @@ li a:hover:not(.active) {
   width: 100%;
   text-align: center;
   font-size: 18px;
-}
+}/*hoe element eruit komt te zien*/
 
 body {
   text-align: center;
-}
+}/*alles wat in mijn body staat, staat in het midden*/
 
 body {
-  margin: 0%;
-}
+  margin: 5%;
+}/*alles in mijn body hoort 5% uit elkaar te staan*/
 
 h1 {
   border-style: solid;
   border-color: peru;
   margin: 2%;
-}
+}/*hoe komt mijn titel eruit te zien, de kleur en hoever van mijn tekst*/
 
 iframe {
   margin: 5%;
   float: left;
-}
+}/*waar komen spellen en videos te staan*/
 
 p {
   margin: 5%;
-}
+}/*hoever staan de paragrafen uit elkaar*/
 
 .footer {
   padding: 2%;
@@ -72,4 +71,4 @@ p {
   background-color: peru;
 text-align: center;
 color: whitesmoke
-}
+}/*hoe komt mijn footer eruit te zien met kleur en tekstkleur en grootte*/
