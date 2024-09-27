@@ -55,6 +55,7 @@ h1 {
 
 iframe {
   margin: 5%;
+  float: left;
 }
 
 p {
