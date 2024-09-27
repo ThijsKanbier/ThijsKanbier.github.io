@@ -1,17 +1,17 @@
-ul {   menu
-  list-style-type: none; 
+ul {   
+  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: antiquewhite;  achtergrondkleur antiekwit
+  background-color: antiquewhite;
 }
 
 li {  
-  float: left; mijn menu komt links te staan
+  float: left;
 }
 
 body {
-  background-color: cornsilk; achtergrondkleur pagina is 'cornsilk'
+  background-color: cornsilk;
 }
 
 li a {
